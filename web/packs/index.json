@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "my-pack.json"
+  ],
+  "homeserver_url": "https://matrix.flamehaze.ru"
+}
