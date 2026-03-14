@@ -1,6 +1,7 @@
 {
   "packs": [
-    "my-pack.json"
+    "my-pack.json",
+    "cats-stickers.json"
   ],
   "homeserver_url": "https://matrix.flamehaze.ru"
 }
